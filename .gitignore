@@ -8,3 +8,8 @@ output_csvs/
 data/
 .mypy_cache/
 .ruff_cache
+
+MJMODEL.TXT
+MUJOCO_LOG.TXT
+uv.lock
+.vscode/
